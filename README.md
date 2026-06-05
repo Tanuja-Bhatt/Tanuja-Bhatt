@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanuja Bhatt</h1>
-<h3 align="center">Data Science enthusiast with a strong curiosity for how data shapes decisions. I enjoy working on ML models, analytics projects, building dashboards and challenges that help me grow.I believe in consistent learning, building one step at a time, and staying dedicated to improving my craft every day.</h3>
+<h3 align="center">Data Analyst with a strong curiosity for how data shapes decisions. I enjoy working on ML models, analytics projects, building dashboards and challenges that help me grow.I believe in consistent learning, building one step at a time, and staying dedicated to improving my craft every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuja-bhatt&label=Profile%20views&color=0e75b6&style=flat" alt="tanuja-bhatt" /> </p>
 
